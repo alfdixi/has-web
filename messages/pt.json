@@ -1,0 +1,609 @@
+{
+  "$meta": {
+    "sourceLocale": "es",
+    "translatedBy": "claude-opus-4-7",
+    "needsHumanReview": true,
+    "placeholder": false
+  },
+  "Site": {
+    "name": "Human Aging Simulators",
+    "shortName": "HAS",
+    "slogan": "HAS + LIFE",
+    "sloganTagline": "Mais anos bons de vida, vividos em plenitude.",
+    "tagline": "Um sistema aberto para que a humanidade prolongue, juntos, os anos bons da vida."
+  },
+  "Nav": {
+    "mission": "Missão",
+    "system": "O sistema",
+    "disciplines": "Disciplinas",
+    "roles": "Como contribuir",
+    "roadmap": "Roadmap",
+    "transparency": "Transparência",
+    "donate": "Doar",
+    "citizens": "Cidadãos",
+    "collaborators": "Colaboradores"
+  },
+  "Hero": {
+    "eyebrow": "Uma causa comum para toda a humanidade · Ciência aberta · Convidamos você a participar",
+    "title": "Mais anos para aproveitar a vida —sem pressa, com saúde, com a gente que você ama— e um sistema aberto onde cada pessoa do planeta pode contribuir.",
+    "subtitle": "Human Aging Simulators (HAS) integra doações financeiras, dados clínicos, descobertas e tecnologia em uma única plataforma aberta. Cada contribuição —de uma pessoa, um pesquisador ou um doador— soma à mesma meta: prolongar os anos bons da vida humana, juntos.",
+    "ctaDonate": "Doar ao projeto",
+    "ctaShareData": "Compartilhar meus dados",
+    "ctaCollaborate": "Colaborar com a pesquisa",
+    "metricGoal": "Uma única meta global",
+    "metricGoalDesc": "Prolongar a vida saudável da espécie humana",
+    "metricInputs": "Três tipos de contribuição",
+    "metricInputsDesc": "Doação financeira, dados pessoais, descobertas e sistemas",
+    "metricOpen": "100% ciência aberta",
+    "metricOpenDesc": "Código MIT/Apache · Dados e conteúdo CC-BY",
+    "metricGovernance": "Governança ética",
+    "metricGovernanceDesc": "Consentimento dinâmico, comitê de bioética, auditoria externa"
+  },
+  "Mission": {
+    "eyebrow": "A missão",
+    "title": "Uma vida mais longa e saudável é alcançável. Só nos falta construí-la juntos.",
+    "p1": "Hoje a informação sobre longevidade está fragmentada: laboratórios privados, artigos fechados, conjuntos de dados que não conversam entre si, dispositivos que não compartilham métricas, países que nem comparam suas populações. É tempo perdido que nossa espécie não deveria continuar perdendo.",
+    "p2": "Human Aging Simulators (HAS) propõe o contrário: um sistema único, aberto e reproduzível onde qualquer pessoa —não importa onde viva ou quanto tenha— possa contribuir com doações financeiras, dados, descobertas ou tecnologia. E onde cada contribuição se integra à mesma meta: que viver 90, 100 ou 110 anos com saúde deixe de ser exceção e comece a ser normal.",
+    "p3": "Não competimos com a medicina nem com a indústria farmacêutica. Construímos a infraestrutura comum que toda a humanidade pode usar para entender, medir e modificar o envelhecimento. E a construímos juntos, em público, passo a passo.",
+    "visionStatementLabel": "Nossa visão",
+    "visionStatement": "Criar modelos científicos capazes de simular e compreender o corpo humano para acelerar descobertas biomédicas."
+  },
+  "Vision": {
+    "eyebrow": "A vida que estamos construindo",
+    "imageAlt": "Ilustração de um horizonte luminoso com figuras de várias gerações —crianças, adultos e idosos— compartilhando a paisagem, símbolo de uma vida longa e desfrutada em companhia.",
+    "quote": "Imagine chegar aos 100 com a mente clara, os músculos firmes, sua gente perto e todo o tempo do mundo para aproveitar o caminho.",
+    "body": "Não queremos prolongar a velhice. Queremos prolongar os anos bons da vida —os que se vivem sem pressa, com saúde, com presença, com as pessoas que amamos. Cada centavo, cada dado e cada ideia que a humanidade contribuir aqui nos aproxima desse horizonte. Se você quer chegar lá, já faz parte da causa.",
+    "joinLabel": "Juntar-me à causa"
+  },
+  "HowWeDoIt": {
+    "eyebrow": "Como vamos conseguir",
+    "title": "Três formas complementares de contribuir com o sistema.",
+    "subtitle": "Uma pessoa pode contribuir com qualquer uma das três. A combinação das três é o que acelera tudo.",
+    "items": {
+      "money": {
+        "tag": "01",
+        "title": "Doações financeiras",
+        "description": "Cobrem infraestrutura, sequenciamento, armazenamento, validação científica e bolsas para pesquisadores. Cada centavo é documentado em relatórios públicos mensais."
+      },
+      "data": {
+        "tag": "02",
+        "title": "Doação de informações clínicas e de vida",
+        "description": "Pessoas que compartilham —de forma anônima, criptografada e revogável— seu genoma, biomarcadores, dados clínicos, sinais vitais, hábitos e ambiente. Sem esses dados não há ciência real."
+      },
+      "knowledge": {
+        "tag": "03",
+        "title": "Compartilhar descobertas e tecnologia",
+        "description": "Pesquisadores, cientistas, engenheiros e jornalistas que contribuem com conjuntos de dados, sistemas informáticos, artigos científicos, modelos, achados clínicos ou divulgação. Tudo se integra em um único sistema comum."
+      }
+    },
+    "footnote": "O sistema aceita conjuntos de dados, sistemas informáticos, pesquisas, dispositivos e qualquer coisa que some à meta. O que já existe não se reinventa: integra-se."
+  },
+  "System": {
+    "eyebrow": "O sistema",
+    "title": "Human Longevity Operating System: um gêmeo biológico digital da humanidade.",
+    "subtitle": "Uma arquitetura em camadas que toma dados reais, calcula idade biológica por órgão, modela causalidade e simula intervenções de forma segura.",
+    "layers": {
+      "data": {
+        "label": "Camada 1",
+        "title": "Dados humanos",
+        "description": "Genoma, epigenoma, transcriptoma, proteoma, metaboloma, microbiota, biomarcadores, imagem médica, dispositivos vestíveis, histórico clínico, dieta, ambiente e comportamento."
+      },
+      "biological": {
+        "label": "Camada 2",
+        "title": "Idade biológica por órgão",
+        "description": "Relógios biológicos por tecido: cérebro, sistema imune, músculo, fígado, coração, rim e endócrino. Não uma idade única, mas a idade funcional de cada sistema."
+      },
+      "causal": {
+        "label": "Camada 3",
+        "title": "Modelo causal",
+        "description": "Redes bayesianas, modelos causais e redes neurais de grafos para identificar quais mecanismos realmente impulsionam o envelhecimento, não só o que correlaciona."
+      },
+      "intervention": {
+        "label": "Camada 4",
+        "title": "Simulador de intervenção",
+        "description": "Testar virtualmente senolíticos, reprogramação parcial, terapias mitocondriais, edição somática e geroprotetores antes de tocar em uma pessoa real."
+      },
+      "safety": {
+        "label": "Camada 5",
+        "title": "Segurança e bioética",
+        "description": "Avaliação contínua de risco: câncer, fibrose, falha imune, perda de identidade celular, dano neurológico. O que não é seguro não avança."
+      },
+      "longevity": {
+        "label": "Camada 6",
+        "title": "Predição de longevidade saudável",
+        "description": "Não apenas viver mais, mas chegar aos 90, 100 ou 110 anos com cognição, força muscular, imunidade e reparo celular intactos."
+      }
+    },
+    "node": {
+      "title": "Longevity Node — o ponto final do sistema",
+      "intro": "Um dispositivo vestível + adesivo + app + laboratório integrado, conectado ao prontuário clínico pessoal e ao modelo central.",
+      "items": [
+        "Captura diária de sinais vitais, sono, glicose, frequência e variabilidade cardíaca, temperatura e oxigênio.",
+        "Amostras periódicas de sangue, perfil epigenético, proteômica, metabolômica e imune.",
+        "Imagem médica programada: ressonância, DEXA, ultrassom, imagem cardiovascular e cerebral.",
+        "Histórico clínico conectado com consentimento dinâmico, dados criptografados e separação entre identidade e biologia.",
+        "IA pessoal de longevidade que devolve relatórios em linguagem clara e recomendações."
+      ]
+    }
+  },
+  "Disciplines": {
+    "eyebrow": "O que integramos",
+    "title": "Dez disciplinas científicas em uma única plataforma.",
+    "subtitle": "O envelhecimento não se entende a partir de uma única ciência. Human Aging Simulators (HAS) integra desde o DNA até o comportamento e a bioética.",
+    "items": {
+      "genomics": {
+        "title": "Genômica humana",
+        "description": "Variantes associadas à longevidade, reparo do DNA, telômeros, mutações somáticas e risco de câncer."
+      },
+      "epigenomics": {
+        "title": "Epigenômica",
+        "description": "Metilação do DNA, modificações de histonas, relógios epigenéticos e reprogramação parcial tipo fatores de Yamanaka."
+      },
+      "transcriptomics": {
+        "title": "Transcriptômica",
+        "description": "Quais genes se ativam ou silenciam com a idade, com diferenças por tecido: cérebro, músculo, fígado, pele, sangue."
+      },
+      "proteomics": {
+        "title": "Proteômica",
+        "description": "Mudanças em proteínas, inflamação, sinalização celular e relógios proteômicos por órgão."
+      },
+      "metabolomics": {
+        "title": "Metabolômica",
+        "description": "NAD+, glicose, lipídios, aminoácidos, mitocôndria, sensibilidade à insulina e dano oxidativo."
+      },
+      "cellAging": {
+        "title": "Biologia celular do envelhecimento",
+        "description": "Senescência celular, autofagia, proteostase, disfunção mitocondrial e esgotamento de células-tronco."
+      },
+      "immunology": {
+        "title": "Imunologia",
+        "description": "Inflammaging, imunossenescência e vigilância imune contra o câncer."
+      },
+      "systemsAi": {
+        "title": "Biologia de sistemas + IA",
+        "description": "Modelos multi-ômicos, redes gene-reguladoras, gêmeos digitais biológicos e simulação de intervenção."
+      },
+      "regenerative": {
+        "title": "Medicina regenerativa",
+        "description": "Células-tronco, terapias gênicas, reprogramação parcial e regeneração tecidual."
+      },
+      "ethics": {
+        "title": "Bioética e segurança",
+        "description": "Risco de tumores, edição germinal restrita, desigualdade biológica, consentimento e controle genético."
+      }
+    }
+  },
+  "Roles": {
+    "eyebrow": "Benefícios por papel",
+    "title": "O que cada pessoa recebe em troca de contribuir.",
+    "subtitle": "Toda contribuição é reconhecida, documentada e devolvida em valor concreto.",
+    "donor": {
+      "tag": "Doadores",
+      "title": "Para quem contribui com doações financeiras",
+      "intro": "Os doadores financiam a infraestrutura que sustenta tudo: sequenciamento, computação, validação, bolsas e operação.",
+      "benefits": [
+        "Relatórios mensais de avanço científico, técnico e financeiro.",
+        "Reconhecimento oficial como doadores principais da causa humana da longevidade.",
+        "Rastreabilidade completa: você vê em que cada centavo foi gasto e qual resultado produziu.",
+        "Acesso antecipado a achados relevantes antes de sua publicação aberta."
+      ],
+      "cta": "Ver benefícios completos"
+    },
+    "citizen": {
+      "tag": "Cidadãos",
+      "title": "Para quem compartilha seus dados",
+      "intro": "Qualquer pessoa pode enviar informações clínicas, genômicas, biométricas e de hábitos —criptografadas, anônimas e revogáveis— e em troca recebe ciência personalizada.",
+      "benefits": [
+        "Relatórios pessoais de avanço clínico, genômico e estatístico.",
+        "Idade biológica por órgão e velocidade de envelhecimento pessoal.",
+        "Recomendações de nutrição, exercício e prevenção baseadas nos seus dados.",
+        "Acesso a todas as ferramentas que o sistema desenvolva para sua longevidade saudável."
+      ],
+      "cta": "Ver o que recebo"
+    },
+    "collaborator": {
+      "tag": "Colaboradores",
+      "title": "Para pesquisadores, cientistas e jornalistas",
+      "intro": "Qualquer profissional que contribua com conjuntos de dados, sistemas, artigos científicos, achados clínicos ou divulgação se integra ao sistema e fica registrado como autor.",
+      "benefits": [
+        "Reconhecimento oficial como responsável pelas descobertas em que você colaborou.",
+        "Coautoria em artigos científicos publicados no bioRxiv com revisão por pares aberta.",
+        "Acesso a conjuntos de dados, API pública, MCP e computação do projeto.",
+        "Visibilidade pública nos relatórios mensais e no mural de colaboradores."
+      ],
+      "cta": "Ver como colaborar"
+    }
+  },
+  "Privacy": {
+    "eyebrow": "Privacidade e consentimento",
+    "title": "Mais rigoroso que qualquer rede social. Mais transparente que qualquer farmacêutica.",
+    "subtitle": "O genoma de uma pessoa também revela informação de sua família. A governança importa tanto quanto a ciência.",
+    "items": [
+      "Consentimento informado dinâmico: você pode mudar de ideia quando quiser.",
+      "Dados pseudonimizados e criptografados de ponta a ponta, separados da sua identidade.",
+      "Proibida a venda a seguradoras, empregadores ou terceiros com fins comerciais.",
+      "Direito de sair do estudo e apagar seus dados a qualquer momento.",
+      "Comitê de bioética independente com auditoria externa e relatórios públicos.",
+      "Edição germinal proibida. Sem terapias comerciais próprias. Sem captura corporativa."
+    ]
+  },
+  "Roadmap": {
+    "eyebrow": "Roadmap por fases",
+    "title": "De landing a infraestrutura científica aberta global.",
+    "subtitle": "Estamos na Fase 1. Cada fase é validada localmente antes de comprometer recursos em cloud.",
+    "phase1": {
+      "label": "Fase 1 — Em andamento",
+      "title": "Landing e captação inicial",
+      "description": "Página pública, transparência financeira, captação das primeiras doações, cidadãos e colaboradores. Validação de demanda real."
+    },
+    "phase2": {
+      "label": "Fase 2 — Próxima",
+      "title": "Fluxo de dados e população sintética",
+      "description": "Coortes sintéticas globais baseadas em agregados públicos, primeiro conjunto de dados no Zenodo e primeiro artigo no bioRxiv."
+    },
+    "phase3": {
+      "label": "Fase 3",
+      "title": "Gêmeo biológico digital",
+      "description": "Idade biológica por órgão, simuladores de intervenção, primeira versão do Longevity Node e relatórios personalizados para cidadãos."
+    },
+    "phase4": {
+      "label": "Fase 4",
+      "title": "API pública + MCP + comunidade global",
+      "description": "Abertura da API e servidor MCP para que qualquer pesquisador ou LLM externo possa se integrar ao sistema com citações rastreáveis."
+    }
+  },
+  "Principles": {
+    "eyebrow": "Princípios não negociáveis",
+    "title": "Como trabalhamos.",
+    "items": {
+      "openScience": {
+        "title": "Ciência aberta",
+        "description": "Código MIT/Apache, dados e conteúdo CC-BY. Tudo é liberado para que a comunidade audite, replique e estenda."
+      },
+      "transparency": {
+        "title": "Transparência",
+        "description": "Cada decisão, cada centavo e cada achado é documentado e publicado. Relatórios mensais abertos, sem opacidade."
+      },
+      "ethicalAi": {
+        "title": "IA ética",
+        "description": "Modelos auditáveis, decisões explicáveis, proibição de manipulação ou discriminação. Comitê de bioética independente com auditoria externa."
+      },
+      "humanityFirst": {
+        "title": "Humanidade primeiro",
+        "description": "Toda decisão prioriza o benefício humano sobre o comercial. Sem patentes próprias, sem captura corporativa, sem lock-in."
+      },
+      "reproducible": {
+        "title": "Pesquisa reproduzível",
+        "description": "Todo método, conjunto de dados e resultado é publicado para que qualquer equipe possa replicá-lo passo a passo. A ciência que não se replica não é ciência."
+      },
+      "anonymizedData": {
+        "title": "Dados anonimizados",
+        "description": "Criptografia extrema, separação entre identidade e biologia, proibida a venda a seguradoras ou terceiros. Seus dados são sempre seus."
+      },
+      "globalAccess": {
+        "title": "Acesso global",
+        "description": "Multilíngue, gratuito e disponível para qualquer país, hospital ou pessoa do planeta. A longevidade não deve ser privilégio."
+      },
+      "notMedical": {
+        "title": "Não é dispositivo médico",
+        "description": "Human Aging Simulators (HAS) é educativo e de pesquisa. Não diagnostica, não trata e não substitui consulta clínica. Etiquetado visivelmente, sempre."
+      }
+    }
+  },
+  "Status": {
+    "eyebrow": "Estado atual e transparência",
+    "title": "Estamos no dia um. Em público. E isso é uma boa notícia.",
+    "p1": "Human Aging Simulators (HAS) está em estado de conceito: fundador sozinho, autofinanciado, sem financiamento externo ainda. Isso significa que qualquer um que chegue agora —você, hoje— entra quando ainda há tudo por construir, e seu nome pode ficar nos alicerces para sempre.",
+    "p2": "Se você acredita que um sistema aberto, global e multidisciplinar para prolongar os anos bons da vida humana é algo que o mundo precisa, há três formas imediatas de impulsioná-lo: doe, compartilhe seus dados ou colabore. Qualquer uma das três já conta.",
+    "metricStage": "Etapa",
+    "metricStageValue": "Conceito / Pré-V1",
+    "metricTeam": "Equipe",
+    "metricTeamValue": "Fundador sozinho + voluntários iniciais",
+    "metricFunding": "Financiamento",
+    "metricFundingValue": "Autofinanciamento + doações abertas",
+    "metricTransparency": "Transparência",
+    "metricTransparencyValue": "Relatórios públicos mensais desde o primeiro dólar"
+  },
+  "FinalCta": {
+    "title": "Mais anos bons de vida são possíveis. Só precisamos que muita gente diga sim, hoje.",
+    "subtitle": "Qualquer um dos três caminhos já é um passo real. Os três juntos fazem isso acontecer antes e para mais pessoas.",
+    "donateLabel": "Doar",
+    "shareLabel": "Compartilhar meus dados",
+    "researchLabel": "Colaborar"
+  },
+  "Footer": {
+    "tagline": "Sistema aberto que integra doações financeiras, dados e descobertas para que a humanidade prolongue a vida saudável.",
+    "sectionProject": "Projeto",
+    "sectionParticipate": "Participar",
+    "sectionLegal": "Legal",
+    "linkMission": "Missão",
+    "linkSystem": "O sistema",
+    "linkDisciplines": "Disciplinas",
+    "linkRoadmap": "Roadmap",
+    "linkPrinciples": "Princípios",
+    "linkDonate": "Doadores",
+    "linkCitizens": "Cidadãos",
+    "linkCollaborators": "Colaboradores",
+    "linkTransparency": "Transparência",
+    "linkLicenses": "Licenças",
+    "linkPrivacy": "Privacidade e consentimento",
+    "linkContact": "Contato",
+    "languageLabel": "Idioma",
+    "rights": "Conteúdo sob CC-BY · Código sob licenças permissivas (MIT/Apache).",
+    "year": "© {year} Human Aging Simulators."
+  },
+  "Disclaimer": {
+    "notMedicalDevice": "Human Aging Simulators (HAS) não é um dispositivo médico. As simulações, relatórios e projeções são modelos educativos e de pesquisa. Não constituem diagnóstico, tratamento nem recomendação clínica."
+  },
+  "DonatePage": {
+    "metaTitle": "Para doadores",
+    "hero": {
+      "eyebrow": "Doadores — Impulsionando a causa humana da longevidade",
+      "title": "Suas doações financeiras financiam a infraestrutura que toda a humanidade vai usar para viver melhor, por mais tempo.",
+      "subtitle": "Você não financia uma empresa. Financia uma camada aberta que qualquer país, hospital, universidade ou pessoa poderá usar para entender e reduzir a velocidade do envelhecimento. Cada centavo é uma promessa: mais anos bons para alguém, em algum lugar.",
+      "ctaPrimary": "Fazer uma doação",
+      "ctaSecondary": "Ver relatórios públicos"
+    },
+    "what": {
+      "title": "Em que se gasta cada centavo",
+      "items": [
+        "Sequenciamento genômico e epigenômico de coortes piloto.",
+        "Computação para treinar modelos multi-ômicos e gêmeos biológicos.",
+        "Armazenamento criptografado e auditado de dados sensíveis.",
+        "Bolsas para pesquisadores que dedicam tempo ao projeto.",
+        "Operação legal, bioética e de auditoria externa.",
+        "Manter todo o código e os dados abertos à comunidade."
+      ]
+    },
+    "benefits": {
+      "title": "Benefícios concretos para doadores",
+      "items": [
+        {
+          "title": "Relatórios mensais",
+          "description": "Cada mês você recebe um relatório fechado com o avanço científico, técnico e financeiro do projeto. O que foi descoberto, o que foi gasto e o que vem."
+        },
+        {
+          "title": "Reconhecimento oficial",
+          "description": "Os doadores principais aparecem no mural público de honra e são citados oficialmente como responsáveis por impulsionar a causa humana da longevidade."
+        },
+        {
+          "title": "Rastreabilidade total",
+          "description": "Cada centavo etiquetado: você vê a qual linha de trabalho foi destinado, qual resultado produziu e que porcentagem do orçamento do mês representou."
+        },
+        {
+          "title": "Acesso antecipado",
+          "description": "Achados científicos relevantes chegam até você antes de sua publicação aberta para que possa lê-los, discuti-los ou redirecionar suas contribuições."
+        },
+        {
+          "title": "Voz nas prioridades",
+          "description": "Os doadores recorrentes participam de pesquisas trimestrais sobre prioridades de investigação e roadmap."
+        },
+        {
+          "title": "Sem captura corporativa",
+          "description": "Você não financia patentes nem terapias proprietárias. Suas doações financeiras não viram propriedade privada — viram infraestrutura comum."
+        }
+      ]
+    },
+    "tiers": {
+      "title": "Níveis sugeridos",
+      "subtitle": "Níveis orientativos. A meta é a sustentabilidade, não o luxo.",
+      "items": [
+        {
+          "name": "Aliado",
+          "amount": "A partir de $5 / mês",
+          "description": "Relatório mensal, menção nos agradecimentos públicos do ano."
+        },
+        {
+          "name": "Patrono",
+          "amount": "A partir de $50 / mês",
+          "description": "Tudo o anterior + acesso antecipado a achados e mural público de patronos."
+        },
+        {
+          "name": "Doador principal",
+          "amount": "A partir de $500 / mês ou aporte único significativo",
+          "description": "Tudo o anterior + reconhecimento oficial como doador principal da causa humana da longevidade e voz nas prioridades."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "É dedutível de impostos?",
+          "a": "Ainda não. Estamos avaliando estrutura legal (associação civil, fundo ou via OpenCollective como entidade fiscal anfitriã). Informaremos quando estiver resolvido."
+        },
+        {
+          "q": "Posso receber minha doação de volta?",
+          "a": "Sim, dentro dos primeiros 30 dias sem perguntas. Depois depende do estado de execução do orçamento."
+        },
+        {
+          "q": "Meu nome precisa ser público?",
+          "a": "Você decide. Pode doar de forma totalmente anônima ou aparecer no mural público com nome, organização ou pseudônimo."
+        }
+      ]
+    },
+    "ctaBlock": {
+      "title": "As primeiras doações são as que provam que isto vale a pena.",
+      "subtitle": "Ainda estamos habilitando Stripe e OpenCollective. Enquanto isso, escreva para coordenarmos sua contribuição.",
+      "ctaLabel": "Escrever à equipe de doadores"
+    }
+  },
+  "CitizensPage": {
+    "metaTitle": "Para cidadãos",
+    "hero": {
+      "eyebrow": "Cidadãos — Seu corpo, sua história, seu controle",
+      "title": "O que você compartilha hoje pode dar mais anos bons a milhões de pessoas amanhã —começando por você.",
+      "subtitle": "Você compartilha informações clínicas, genômicas, biométricas e de hábitos —criptografadas, anônimas e revogáveis quando quiser—. Em troca recebe uma leitura completa de como seu corpo está envelhecendo e ferramentas personalizadas para se cuidar melhor, por mais tempo.",
+      "ctaPrimary": "Entrar para a lista",
+      "ctaSecondary": "Ver privacidade e consentimento"
+    },
+    "what": {
+      "title": "Quais dados pediremos (sempre com seu consentimento)",
+      "items": [
+        "Genoma completo (uma única vez na vida).",
+        "Epigenoma e biomarcadores a cada 6-12 meses.",
+        "Dados clínicos: diagnósticos, medicamentos, cirurgias, antecedentes familiares.",
+        "Imagem médica programada: ressonância, DEXA, ultrassom quando couber.",
+        "Dispositivos vestíveis: frequência e variabilidade cardíaca, sono, glicose, atividade, temperatura, oxigênio.",
+        "Hábitos e ambiente: dieta, exercício, estresse, exposição solar, poluição, localização geral."
+      ]
+    },
+    "benefits": {
+      "title": "O que você recebe em troca",
+      "items": [
+        {
+          "title": "Relatório de idade biológica por órgão",
+          "description": "Não uma idade única. Sua idade cerebral, imune, muscular, hepática, cardiovascular, renal e endócrina com seus intervalos de confiança."
+        },
+        {
+          "title": "Velocidade de envelhecimento pessoal",
+          "description": "Quanto mais rápido ou lento você envelhece em relação à sua idade cronológica, e quais eventos da sua vida aceleram ou freiam isso."
+        },
+        {
+          "title": "Relatórios clínicos e genômicos pessoais",
+          "description": "Avanço clínico, genômico, proteômico, metabólico e estatístico, em linguagem clara, com um panorama completo de como sua vida evolui."
+        },
+        {
+          "title": "Recomendações de nutrição",
+          "description": "Diretrizes alimentares personalizadas segundo seu metabolismo, microbiota, genética e biomarcadores atuais."
+        },
+        {
+          "title": "Recomendações de exercício",
+          "description": "Tipo, intensidade e frequência ajustados à sua idade biológica por órgão, não à sua idade de aniversário."
+        },
+        {
+          "title": "Acesso a todas as ferramentas",
+          "description": "Conforme o sistema cresce, você acessa sem custo cada nova ferramenta de prevenção, simulação, screening e autocuidado que for liberada."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Sua privacidade é mais rigorosa que qualquer rede social",
+      "items": [
+        "Consentimento informado dinâmico: você muda de ideia quando quiser.",
+        "Criptografia ponta a ponta e separação entre sua identidade e seus dados biológicos.",
+        "Proibida a venda a seguradoras, empregadores ou terceiros com fins comerciais.",
+        "Direito de apagar todos os seus dados do sistema a qualquer momento.",
+        "Comitê de bioética independente com auditoria externa pública.",
+        "Seus dados genéticos também revelam informação da sua família — isso é tratado com o peso que merece."
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Quanto custa participar?",
+          "a": "Zero para você. Os exames, dispositivos e infraestrutura são cobertos pelas doações. Se você está disposto/a a co-financiar seu pacote, também facilitamos."
+        },
+        {
+          "q": "Quando abre o formulário?",
+          "a": "O formulário completo abre na Fase 2. Enquanto isso, você pode entrar para a lista de espera para ser uma das primeiras pessoas a ingressar."
+        },
+        {
+          "q": "Isto é diagnóstico médico?",
+          "a": "Não. Human Aging Simulators (HAS) não é um dispositivo médico. Os relatórios são educativos e de pesquisa. Qualquer achado relevante deve ser validado com seu médico."
+        },
+        {
+          "q": "E se eu quiser sair?",
+          "a": "Saída total com apagamento dos dados a qualquer momento, sem perguntas. É um direito, não uma concessão."
+        }
+      ]
+    },
+    "ctaBlock": {
+      "title": "Seu corpo é a única fonte real de evidência.",
+      "subtitle": "Sem cidadãos compartilhando dados não há ciência. Entre para a lista para ingressar assim que o formulário estiver pronto.",
+      "ctaLabel": "Entrar para a lista de cidadãos"
+    }
+  },
+  "CollaboratorsPage": {
+    "metaTitle": "Para colaboradores",
+    "hero": {
+      "eyebrow": "Pesquisadores · Cientistas · Jornalistas · Engenheiros — Bem-vindos",
+      "title": "Seu trabalho entra no sistema, fica atribuído ao seu nome e impulsiona toda a espécie a uma vida melhor.",
+      "subtitle": "Human Aging Simulators (HAS) integra conjuntos de dados, sistemas, artigos científicos, achados clínicos, modelos e divulgação em uma única plataforma comum. Cada contribuição é citada, versionada e reconhecida oficialmente. Aqui o que você descobre não se perde nem se tranca: fica, e se torna patrimônio comum.",
+      "ctaPrimary": "Contatar a equipe científica",
+      "ctaSecondary": "Ver disciplinas integradas"
+    },
+    "who": {
+      "title": "Quem pode colaborar",
+      "items": [
+        "Pesquisadores em longevidade, genômica, epigenética, proteômica e biologia de sistemas.",
+        "Médicos, biólogos celulares, imunologistas e especialistas em medicina regenerativa.",
+        "Engenheiros de dados, ML/IA, software e dispositivos biomédicos.",
+        "Jornalistas científicos, divulgadores e comunicadores que ajudem a contar a causa.",
+        "Bioeticistas, juristas e especialistas em privacidade e consentimento.",
+        "Estudantes e voluntários com tempo e disciplina técnica."
+      ]
+    },
+    "what": {
+      "title": "O que você pode contribuir",
+      "items": [
+        "Conjuntos de dados próprios (sintéticos ou derivados de agregados públicos).",
+        "Sistemas informáticos: fluxos de dados, modelos, servidores MCP, dispositivos, painéis.",
+        "Artigos, pré-prints, validações e replicações científicas.",
+        "Achados clínicos, casos publicáveis e revisões sistemáticas.",
+        "Divulgação: artigos, podcasts, vídeo, traduções, conteúdo educativo.",
+        "Assessoria bioética, jurídica ou de privacidade."
+      ]
+    },
+    "benefits": {
+      "title": "Benefícios concretos",
+      "items": [
+        {
+          "title": "Reconhecimento oficial",
+          "description": "Qualquer descoberta ou avanço para o qual você contribua fica atribuído ao seu nome, no sistema e em publicações."
+        },
+        {
+          "title": "Coautoria no bioRxiv",
+          "description": "Você assina junto artigos e pré-prints publicados com revisão por pares aberta. Tudo citável, tudo reproduzível."
+        },
+        {
+          "title": "Acesso a conjuntos de dados e API",
+          "description": "Conjuntos de dados sintéticos no Zenodo, API pública e servidor MCP para conectar seus LLMs (Claude, GPT) diretamente ao sistema."
+        },
+        {
+          "title": "Computação do projeto",
+          "description": "Acesso —segundo disponibilidade e prioridade— à computação financiada por doações para treinar modelos e validar hipóteses."
+        },
+        {
+          "title": "Visibilidade nos relatórios",
+          "description": "Seu nome e sua contribuição aparecem nos relatórios mensais públicos e no mural de colaboradores."
+        },
+        {
+          "title": "Sem captura corporativa",
+          "description": "Você não assina cessão de PI a uma empresa. Seu trabalho fica sob licenças permissivas (MIT/Apache, CC-BY) — visível para sempre."
+        }
+      ]
+    },
+    "disciplinesNote": "As 10 disciplinas que integramos estão descritas na página principal — desde genômica até bioética.",
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "q": "Há financiamento para meu tempo?",
+          "a": "Ainda não em escala. Conforme entrarem doações, abrirão bolsas mínimas para colaboradores com dedicação sustentada. A prioridade inicial é seriedade e reconhecimento, não salário."
+        },
+        {
+          "q": "Posso contribuir com trabalho prévio?",
+          "a": "Sim, desde que tenha direitos para liberá-lo sob licença compatível (MIT/Apache para código, CC-BY para dados e conteúdo)."
+        },
+        {
+          "q": "Minha instituição pode colaborar formalmente?",
+          "a": "Sim. Buscamos convênios-quadro com universidades, hospitais e centros de pesquisa. Escreva-nos para abrir um convênio."
+        },
+        {
+          "q": "E quanto à propriedade intelectual?",
+          "a": "Tudo o que é contribuído ao Human Aging Simulators (HAS) é liberado sob licenças permissivas. Não existem patentes proprietárias dentro do projeto."
+        }
+      ]
+    },
+    "ctaBlock": {
+      "title": "O sistema precisa de gente que some conhecimento, não que o reserve.",
+      "subtitle": "Se você trabalha em qualquer disciplina relacionada e acredita que sua contribuição soma, escreva-nos. Começamos por uma conversa.",
+      "ctaLabel": "Escrever à equipe científica"
+    }
+  },
+  "PageCommon": {
+    "back": "← Voltar ao início"
+  }
+}
