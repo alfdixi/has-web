@@ -1,6 +1,6 @@
 {
   "name": "has-web",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,7 +9,10 @@
     "lint": "eslint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "prepare": "husky"
+    "prepare": "husky",
+    "i18n:translate": "node scripts/translate-i18n.mjs",
+    "i18n:translate:incremental": "node scripts/translate-i18n.mjs --only-missing",
+    "deploy": "bash scripts/deploy.sh"
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx,mjs,cjs}": [

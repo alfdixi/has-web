@@ -1,0 +1,9 @@
+aws_profile    = "dixi"
+aws_region     = "us-east-1"
+domain         = "haslife.org"
+default_locale = "en"
+
+# Optional overrides:
+# bucket_name       = "haslife-org-website"
+# extra_aliases     = ["staging.haslife.org"]
+# supported_locales = ["es", "en", "pt", "fr", "it", "de", "ru", "ja", "zh", "hi", "ar"]
