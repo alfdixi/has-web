@@ -104,6 +104,17 @@ export async function SiteFooter({ locale }: Props) {
         <div className="mt-12 border-t border-black/5 pt-8 text-xs text-zinc-500 dark:border-white/10">
           <p>{t("year", { year })}</p>
           <p className="mt-2">{t("rights")}</p>
+          <p className="mt-2">
+            {t("createdByLabel")}{" "}
+            <a
+              href="https://dixi-project.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-zinc-700 hover:underline dark:text-zinc-300"
+            >
+              {t("createdByName")}
+            </a>
+          </p>
           <p className="mt-4 max-w-3xl text-zinc-500 italic">
             {tDisclaimer("notMedicalDevice")}
           </p>

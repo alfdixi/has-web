@@ -330,7 +330,9 @@
     "linkContact": "संपर्क",
     "languageLabel": "भाषा",
     "rights": "सामग्री CC-BY के अंतर्गत · कोड अनुज्ञेय लाइसेंसों (MIT/Apache) के अंतर्गत।",
-    "year": "© {year} Human Aging Simulators."
+    "year": "© {year} Human Aging Simulators.",
+    "createdByLabel": "निर्माता",
+    "createdByName": "Dixi Project"
   },
   "Disclaimer": {
     "notMedicalDevice": "Human Aging Simulators (HAS) कोई चिकित्सा उपकरण नहीं है। अनुकरण, रिपोर्ट और पूर्वानुमान शैक्षिक और अनुसंधान मॉडल हैं। वे न तो निदान, न उपचार, न ही चिकित्सकीय सिफ़ारिश हैं।"
